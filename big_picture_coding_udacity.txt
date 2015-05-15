@@ -1,0 +1,22 @@
+Concept Map
+
+Biggest concept:  Version control = systematic versioning of content
+= anything that makes it easier to store, access, create different
+versions of the same documents.
+
+Different versions :  Dropbox, Google Documents, Wikipedia, Git, SVN
+
+concept: Commit = a component of Git 
+concept: A collection of files in Git is called a repository
+concept: Repository
+concept: Clone takes an existing repository and makes one just like it.
+concept: Log- show commits in the repository. 
+
+Lesson 2
+Init, add, staging area
+
+git init = to create a git directory; git add = adds news files to the
+staging area to be committed; git status = to see what's going on with
+the git directory; git staging area = the area where you compile changes
+to be put together into one commit; working directory = directory
+that you are currently working on.
