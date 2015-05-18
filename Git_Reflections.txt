@@ -1,0 +1,84 @@
+	LESSON_1_REFLECTIONS.TXT
+Question: How did viewing a difference between two versions of a file
+help me to see the bug that was introduced?
+
+Answer: Many things can be missed if I just skimmed over it.
+The two codes I went over helped me to see nuances in the code that
+was beneficial to workings of the code.
+
+	LESSONS_2_REFLECTIONS.TXT
+
+Question: How could having easy access to the entire history
+of a file make you a more efficient programmer in the long term?
+
+Answer: Knowing that all my editing history is easily accessible would 
+making editing and revising code easier. 
+
+	LESSON_3_REFLECTIONS.TXT
+
+Question: What do I think are the pros and cons of manually choosing 
+when to create a commit, like in Git, v.s having versions automatically
+saved like, Google docs does?
+
+Answer: Versions that do it automatically don't know what is a logical
+commit to save, so there are a lot of things committed and saved that 
+doesn't necessarily need to be. Having to decide for myself when a commit
+needs to happen would be beneficial to the editing process.
+
+	LESSON_4_REFLECTIONS.TXT
+
+Question: Why do you think some version control systems, like Git,
+allow saving multiple files in one commit, while others, like Google Docs,
+treat each file separately?
+
+Answer: Google Docs wasn't created to allow coding. It was created
+to create and organize documents for business and home. So it makes 
+sense for Google Docs to treat each file separately. While in Git it 
+makes life easier as a programmer to save multiple files in one commit
+especially if it's related.
+
+	LESSON_5_REFLECTIONS.TXT
+
+Question: How can you use the commands git log and git diff to view 
+the history of files?
+
+Answer: Git log allows access to the history of all changes to the 
+repository. Git diff allows you to see the differences between two
+commits. These functions also making editing more efficient by allowing
+access to the history. For further changes.
+
+	LESSON_6_REFLECTIONS.TXT
+	
+Question: How might using version control make you more confident
+to make changes that could break something?
+
+Answer: I can be more confident in the changes I make because I 
+have a way to check to see what went wrong at what time.
+
+	LESSON_7_REFLECTIONS.TXT
+	
+Question: Now that I have my workspace set up, what do I want to use
+Git for?
+
+Answer: Not sure
+
+
+Lesson_9_REFLECTIONS.TXT
+
+Question: How is the staging area different from the working directory 
+and the repository? What value does it offer?
+
+Answer: The staging area is important, because it allows us to make
+logical commits at important time periods of the program development.
+It's different from the working directory because it is a gateway to
+it, and from repository because it operates on the repository, adding
+commits and files to it.
+
+Lesson_9_REFLECTIONS.TXT
+
+Question: What are some situations when branches would be helpful in 
+keeping your history organized? How would branches help?
+
+Answer: When working on a big project, or a project for multiple people, 
+or indecive people, when making changes and having that back-up
+branch would be useful.
