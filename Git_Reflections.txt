@@ -1,3 +1,4 @@
+
 	LESSON_1_REFLECTIONS.TXT
 Question: How did viewing a difference between two versions of a file
 help me to see the bug that was introduced?
