@@ -91,3 +91,14 @@ Question: How do the diagrams help you visualize the branch structure?
 Answer: The visualization of the branch structure allow me to actually
 see what is happening when a check-out a branch or make a commit. 
 To allow me to see what I'm doing. And will help with mistakes.
+
+LESSON_10_REFLECTIONS.TXT
+
+Question: What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+Answer: The result of merging two branches are that the changes and fixes
+made to one branch while checked out can come together as one code.
+It is represented in the diagram in the way they did because it would be
+easier to see what's going on.
+ 
