@@ -83,3 +83,11 @@ keeping your history organized? How would branches help?
 Answer: When working on a big project, or a project for multiple people, 
 or indecive people, when making changes and having that back-up
 branch would be useful.
+ 
+LESSON_10_REFLECTIONS.TXT
+
+Question: How do the diagrams help you visualize the branch structure?
+
+Answer: The visualization of the branch structure allow me to actually
+see what is happening when a check-out a branch or make a commit. 
+To allow me to see what I'm doing. And will help with mistakes.
