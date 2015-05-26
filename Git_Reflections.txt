@@ -101,4 +101,18 @@ Answer: The result of merging two branches are that the changes and fixes
 made to one branch while checked out can come together as one code.
 It is represented in the diagram in the way they did because it would be
 easier to see what's going on.
- 
+
+LESSON_12_REFLECTIONS.TXT
+
+Question: What are the pros and cons of Git's automatic merging vs.
+always doing merges manually?
+
+Answer: Pros: Will be able to spend more time on updating and adding to
+the branches than having to spend alot of time merging the branches. And if
+there is a problem when automatically merging then Git will inform them
+of the problem and they will be able what to do about the conflict.
+Cons: I personally had some problems with merging Easy-mode into 
+Master. It seems that Master merged into easy-mode instead. I'm not
+sure how to retify that problem. This is the second time I had to merge
+and had a problem, not sure if it's me, even though I did exactly what
+the lady said to do, in order to merge.
