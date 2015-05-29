@@ -1,4 +1,15 @@
+1. Reflection
 Question: When would you want to use a remote repository rather than keeping all your work local?
 
 Answer: When I use a computer other than the one I would normally use and when 
 the project is being aded to by other people.
+
+2. Reflection
+Question: Why might you want to always pull changes manually rather than
+having Git automatically stay up-to-date with your remote repository?
+
+Answer: Some changes, although relevant, may not be needed or wanted
+on the remote repository. Some changes may have introduced bug, or there
+were so many that it would be tiresome to have had the changes automatically
+pulled one by one. The search for a particular one would get confusing.
+
