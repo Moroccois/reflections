@@ -13,3 +13,22 @@ on the remote repository. Some changes may have introduced bug, or there
 were so many that it would be tiresome to have had the changes automatically
 pulled one by one. The search for a particular one would get confusing.
 
+
+3. Reflection
+Question: Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+Answer: Forks allow to clone someone's repository to another via Github.
+Clones allows to copy a repository from Github to a local repository.
+Branches allow to copy the work of one branch and copy it to another.
+
+One would use branching if working on a large project and wanted to make
+experimental changes that could change the whole project for good or 
+ruin it.
+
+One would use cloning when they wanted to make changes to someone else's
+repository. Where using cloning they could get that person's repository on
+their own machine.
+
+One would use forks, when they wanted the project that someone else
+made and make changes to it. 
