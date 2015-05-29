@@ -39,5 +39,8 @@ Add: Operates on the staging area.
 LOG: Operates on commits and branches.
 Diff: Operates on commits.
 MERGE: Operates on commits.
-
+Pull: Operates on branches and remotes.
+Push: Operates on branches and remotes.
+Remote repositories: Repositories in a known location.
+Github: Part-of Git.
 
