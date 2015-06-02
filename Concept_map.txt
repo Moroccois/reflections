@@ -43,3 +43,6 @@ Github: Part-of Git.
 Remote: Clone operates on a remote repository.
 Push: Takes a branch from a local repository and pushes it a remote.
 PUll: Takes a branch from a remote and takes it to local repository.
+
+Git pull origin/master = git fetch origin
+			 git merge master origin/master
