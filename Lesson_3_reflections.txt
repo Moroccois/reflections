@@ -40,3 +40,13 @@ the remote stored locally?
 
 Answer: Having a copy of the remote stored locally gives those files a back-up
 version of the files. 
+
+5. Reflection
+Question: How would you collaborate without using Git or GitHub? What would 
+be easier, and what would be harder?
+
+Answer: The only way I cant think of to collaborate without Git or GitHub 
+would be to email your collaborators about everything. I think the 
+communication could get lost in using email rather than Git and GitHub.
+It keeps track of everything very well. I don't think using email would
+be easier, so, just use Git and Github.
