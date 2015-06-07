@@ -46,3 +46,11 @@ PUll: Takes a branch from a remote and takes it to local repository.
 
 Git pull origin/master = git fetch origin
 			 git merge master origin/master
+
+
+Fork: A type of clone and is part of GitHub; operates on a repository.
+Fetch: Operates on remotes and branches. 
+Fast-forward merges: Operates on branches.
+Pull request: Asking if one branch can be merged into another branch. Merges
+are part-of of pull requests; and pull requests are strictly a GitHub 
+function.
