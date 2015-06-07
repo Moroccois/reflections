@@ -50,3 +50,17 @@ would be to email your collaborators about everything. I think the
 communication could get lost in using email rather than Git and GitHub.
 It keeps track of everything very well. I don't think using email would
 be easier, so, just use Git and Github.
+
+5.Reflection
+Question: When would you want to make changes in a seperate branch rather
+than directly in maste? What benefits does each approach have?
+
+Answer: Using a seperate branch for different projects would be helpful
+when I'm working on many different changes that could effective master
+in a harmful way, or if I'm collaborating with others and want them to see
+the changes or add some changes before I update master with those changes.
+	The benefit of using a different branch rather than always using
+master would be more freedom to work, to unleash the creativity that 
+becomes apparent with a different branch. 
+	The benefit of using master would be so that an offical copy of
+my program exists in an offical capacity.
